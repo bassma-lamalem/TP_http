@@ -64,6 +64,8 @@ curl -i -X POST [https://httpbin.org/post](https://httpbin.org/post) \
   -H "Content-Type: application/json" \
   -H "X-Custom-Header: MonHeader" \
   -d '{"action": "test", "value": 42}'
+  ### TP 3 : API REST avec JavaScript
+
 async function fetchWithRetry(url, options, maxRetries) {
   for (let i = 0; i < maxRetries; i++) {
     try {
