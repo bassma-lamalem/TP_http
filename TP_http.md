@@ -5,7 +5,7 @@
 ## TP 1 : Exploration avec les DevTools
 
 ### Code de statut
-- **200 
+- 200 
 
 ### Headers de requête (Request Headers)
 
